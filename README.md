@@ -6,7 +6,7 @@ Just for formatting, to not spam other repositories
 
 For you should not __spam__ other repositories.  
 
-## Requirements 2022
+## General Hacktoberfest Information
 
-A newly introduced requirement is that at least 2 PRs are not considered spammy.  
-
+Information about Hacktoberfest participation are listed here:
+- https://hacktoberfest.com/participation/
